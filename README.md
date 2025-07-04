@@ -43,7 +43,7 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/balaji-chavan-4ba564266/" >
+  <a href="https://www.linkedin.com/in/balaji-chavan-4ba564266/" target="balnk" >
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
   </a>
   <a href="mailto:balajjichavan1306@gmail.com">
