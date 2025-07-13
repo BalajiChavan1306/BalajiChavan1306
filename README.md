@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Software Development Test Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxbtG5Rzpdq_gol1G3M5XVFEc3HsQzOsF8w&s" width="300"/>
 </p>
 
 ---
